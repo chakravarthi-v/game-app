@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">brain timer2</string>
+    <string name="go">go!</string>
+    <string name="_30s">30s</string>
+    <string name="button">Button</string>
+</resources>
